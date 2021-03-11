@@ -1,0 +1,32 @@
+.list-cell{
+    -fx-text-fill: #BF3A3A;
+    -fx-font-weight: bold;
+    -fx-background-color: #FBDEB1;
+    -fx-font-size: 14px;
+}
+
+.buttonSend{
+    -fx-background-color:
+            linear-gradient(#f0ff35, #a9ff00),
+            radial-gradient(center 50% -40%, radius 200%, #b8ee36 45%, #80c800 50%);
+    -fx-background-radius: 6, 5;
+    -fx-background-insets: 0, 1;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+    -fx-text-fill: black;
+}
+
+/*.list-cell {
+    -fx-background-color: -fx-control-inner-background;
+    -fx-padding: 0.25em;
+    -fx-text-fill: -fx-text-inner-color;
+    -fx-opacity: 1;
+}
+
+.list-cell:odd {
+    -fx-background-color: derive(-fx-control-inner-background,-5%);
+}*/
+
+.list-view:focused .list-cell:focused {
+    -fx-background-color: -fx-focus-color, -fx-cell-focus-inner-border, -fx-control-inner-background;
+    -fx-background-insets: 0, 1, 2;
+}

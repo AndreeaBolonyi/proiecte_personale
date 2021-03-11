@@ -1,0 +1,168 @@
+.root{
+    -fx-font-size: 14px;
+    -fx-text-fill: #BF3A3A;
+    -fx-font-family: "Times New Roman";
+    -fx-alignment: center;
+    -fx-background-color: #ffd9b3;
+}
+
+.border-pane{
+    -fx-font-family: "Times New Roman";
+    -fx-text-fill: #BF3A3A;
+    -fx-spacing: 10px;
+}
+
+.label {
+    -fx-font-size: 20;
+    -fx-font-weight: bold;
+    -fx-text-fill: #BF3A3A;
+}
+
+#account {
+    -fx-background-color: transparent;
+    -fx-text-fill: #BF3A3A;
+    -fx-font-size: 16px;
+}
+
+.header-section {
+    -fx-padding: 10px;
+    -fx-font-size: 20px;
+    -fx-background-color: transparent;
+}
+
+.header-section Label {
+    -fx-padding: 20px;
+}
+
+.sidebar-section-right{
+    -fx-spacing: 10px;
+}
+
+.sidebar-section-left{
+    -fx-spacing: 10px;
+}
+ .buttonLogOut{
+     -fx-background-color: #FFF8BD;
+     -fx-text-fill: #BF3A3A;
+     -fx-font-weight: bold;
+     -fx-cursor: hand;
+     -fx-font-size: 14px;
+     -fx-pref-height: 25px;
+     -fx-pref-width: 160px;
+ }
+
+ .buttonLogOut:hover{
+     -fx-background-color: #EEB892;
+ }
+
+ /*.tableView{
+     -fx-border-color: #FCB56E;
+ }*/
+
+.tableView .scroll-bar{
+    -fx-background-color: #F8D2AC;
+}
+
+.tableView .scroll-bar:vertical .thumb{
+    -fx-background-color:  linear-gradient(to bottom, #D0A1A1, #C05C5C);
+}
+.tableView .scroll-bar:horizontal .thumb {
+    -fx-background-color:  linear-gradient(to right, #D0A1A1, #C05C5C);
+}
+
+/*.column {
+     -fx-background-color: #F8D2AC;
+     -fx-font-weight: bold;
+     -fx-text-fill: #BF3A3A;
+     -fx-font-family: "Times New Roman";
+     -fx-font-size: 14px;
+ }*/
+
+.table-row-cell:selected {
+    -fx-table-cell-border-color: black;
+    -fx-background-color: #D0A1A1;
+}
+
+/*.table-view:focused > .virtual-flow > .clipped-container > .sheet > .table-row-cell:filled:selected{
+    -fx-table-cell-border-color: black;
+    -fx-background-color: #D0A1A1;
+}*/
+
+.table-row-cell:selected .text {
+    -fx-fill: black;
+    -fx-font-weight: bold;
+}
+
+.table-view .cell{
+    -fx-font-weight: bold;
+    -fx-text-fill: #BF3A3A;
+    -fx-font-family: "Times New Roman";
+    -fx-font-size: 14px;
+}
+
+.buttonUserPage{
+    -fx-background-color: #FFF8BD;
+    -fx-cursor: hand;
+    -fx-font-weight: bold;
+    -fx-background-radius: 30;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-padding: 10 20 10 20;
+    -fx-text-alignment: center;
+    -fx-pref-height: 25px;
+    -fx-pref-width: 120px;
+    -fx-font-size: 14px;
+}
+
+.buttonAdd{
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-font-weight: bold;
+    -fx-background-radius: 30;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-padding: 10 20 10 20;
+    -fx-text-alignment: center;
+}
+
+.buttonAdd:hover{
+    -fx-background-color: #FFF8BD;
+}
+
+.radio-button{
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-text-fill:  black;
+    -fx-font-weight: bold;
+}
+
+.radio-button:hover{
+    -fx-background-color: #FFF8BD;
+}
+
+.pagination > .pagination-control > .control-box {
+    -fx-spacing: 0;
+}
+
+.pagination {
+    -fx-page-information-visible: false;
+}
+
+.pagination > .pagination-control > .control-box > .number-button:selected,
+.pagination > .pagination-control > .control-box > .bullet-button:selected{
+    -fx-background-insets: 0;
+    -fx-background-color: #FFF8BD;
+    -fx-font-weight: bold;
+    -fx-text-fill: #BF3A3A;
+    -fx-font-family: "Times New Roman";
+    -fx-font-size: 14px;
+}
+
+.pagination > .pagination-control > .control-box > .number-button,
+.pagination > .pagination-control > .control-box > .bullet-button,
+.pagination > .pagination-control > .control-box > .left-arrow-button,
+.pagination > .pagination-control > .control-box > .right-arrow-button {
+    -fx-background-insets: 0, 1;
+    -fx-background-color: #F6BED3, #FAFAFA;
+    -fx-min-width: 30;
+    -fx-min-height: 30;
+}
+

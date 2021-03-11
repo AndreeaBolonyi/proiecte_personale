@@ -1,0 +1,16 @@
+.tab-pane{
+    -fx-background-color: #F8D2AC;
+}
+
+.tab-pane>*.tab-header-area>*.tab-header-background{
+    -fx-background-color: null;
+    -fx-border-color: purple;
+}
+
+.tab-label{
+    -fx-text-fill: #BF3A3A;
+}
+.tab{
+    -fx-background-color: #FBDEB1;
+    -fx-font-weight: bold;
+}

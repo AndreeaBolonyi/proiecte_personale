@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane stylesheets="/css/messagesPage.css" fx:id="rootAnchorPane" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="socialnetwork.controller.messagesPageController">
+    <BorderPane AnchorPane.rightAnchor="50" AnchorPane.bottomAnchor="50" AnchorPane.topAnchor="20" AnchorPane.leftAnchor="50">
+        <center>
+            <HBox spacing="20"></HBox>
+        </center>
+
+        <top>
+            <HBox spacing="450">
+                <Label text="Messages"/>
+                <Button styleClass="buttonAdd" onAction="#handleBack" text="Back"/>
+            </HBox>
+        </top>
+       <left>
+           <VBox spacing="10">
+               <HBox spacing="10">
+                   <Label text="Search"/>
+                   <TextField fx:id="textFieldSearch"/>
+               </HBox>
+               <ListView fx:id="listViewUsers"/>
+           </VBox>
+       </left>
+
+        <right>
+            <VBox spacing="10" alignment="CENTER">
+                 <ListView prefHeight="300" prefWidth="300" fx:id="listViewMessages"/>
+                <Pagination fx:id="pagination"/>
+                <HBox spacing="10">
+                    <TextField fx:id="textFieldMessage"/>
+                    <Button onAction="#handleSendMessage" styleClass="buttonSend" fx:id="sendMessage" text="Send"/>
+                </HBox>
+            </VBox>
+        </right>
+    </BorderPane>
+</AnchorPane>

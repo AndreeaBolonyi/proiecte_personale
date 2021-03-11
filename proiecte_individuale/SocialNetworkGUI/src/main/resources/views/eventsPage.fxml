@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.control.cell.CheckBoxTableCell?>
+<AnchorPane fx:id="rootAnchorPane" stylesheets="/css/eventsPage.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="socialnetwork.controller.eventsPageController">
+    <!-- <SplitPane dividerPositions="0.3">
+        <VBox spacing="10">
+            <Label fx:id="labelNextEvent" />
+            <AnchorPane fx:id="calendar" prefHeight="300" prefWidth="300" />
+            <Button onAction="#handleAddEvent" styleClass="buttonUserPage" text="Add event" />
+            <Button onAction="#handleDeleteEvent" styleClass="buttonUserPage" text="Delete event" />
+        </VBox>
+        <VBox alignment="CENTER" spacing="10">
+            <Label fx:id="infoEvent" styleClass="info" textAlignment="CENTER" />
+            <AnchorPane fx:id="miniAnchorPane" prefWidth="350" />
+            <HBox spacing="10">
+                <Button onAction="#handleGo" styleClass="buttonUserPage" text="Going" />
+                <Button onAction="#handleCancel" styleClass="buttonUserPage" text="Cancel going" />
+            </HBox>
+            <HBox spacing="10">
+                <Button onAction="#handleNotifications" styleClass="buttonUserPage" text="Inbox" />
+                <Button onAction="#handleSoon" styleClass="buttonUserPage" text="Soon" />
+            </HBox>
+            <Button onAction="#handleBack" styleClass="buttonUserPage" text="Back" />
+        </VBox>
+    </SplitPane> -->
+
+    <BorderPane AnchorPane.topAnchor="2" AnchorPane.leftAnchor="20" AnchorPane.rightAnchor="10">
+        <left>
+            <VBox spacing="10">
+                <Label fx:id="labelNextEvent" />
+                <AnchorPane fx:id="calendar" prefHeight="300" prefWidth="300" />
+                <Button onAction="#handleAddEvent" styleClass="buttonUserPage" text="Add event" />
+                <Button onAction="#handleDeleteEvent" styleClass="buttonUserPage" text="Delete event" />
+            </VBox>
+        </left>
+
+        <right>
+            <VBox spacing="10">
+                <Label fx:id="spatiu"/>
+                <Label fx:id="infoEvent" styleClass="info" textAlignment="CENTER" />
+                <AnchorPane styleClass="tableView" fx:id="miniAnchorPane" prefWidth="350" />
+                <HBox spacing="10">
+                    <Button onAction="#handleGo" styleClass="buttonUserPage" text="Going" />
+                    <Button onAction="#handleCancel" styleClass="buttonUserPage" text="Cancel going" />
+                </HBox>
+                <HBox spacing="10">
+                    <Button onAction="#handleNotifications" styleClass="buttonUserPage" text="Inbox" />
+                    <Button onAction="#handleSoon" styleClass="buttonUserPage" text="Soon" />
+                </HBox>
+            </VBox>
+        </right>
+        <top>
+            <HBox alignment="BASELINE_RIGHT">
+                <Button onAction="#handleBack" styleClass="buttonUserPage" text="Back" />
+            </HBox>
+        </top>
+    </BorderPane>
+</AnchorPane>

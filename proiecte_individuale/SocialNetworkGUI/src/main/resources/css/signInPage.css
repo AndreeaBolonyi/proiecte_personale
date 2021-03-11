@@ -1,0 +1,21 @@
+.root{
+    -fx-font-size: 14px;
+    -fx-text-fill: #BF3A3A;
+    -fx-font-family: "Times New Roman";
+    -fx-alignment: center;
+}
+
+.buttonSignInPage{
+    -fx-background-color: #FFF8BD;
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: #BF3A3A;
+    -fx-font-weight: bold;
+}
+
+.label{
+    -fx-text-fill: #BF3A3A;
+    -fx-font-size: 16px;
+    -fx-font-family: "Times New Roman";
+    -fx-font-weight: bold;
+}

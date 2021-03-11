@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane stylesheets="/css/requestsPage.css" fx:id="rootAnchorPane" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="socialnetwork.controller.requestsPageController">
+    <BorderPane AnchorPane.rightAnchor="10" AnchorPane.bottomAnchor="10" AnchorPane.topAnchor="10" AnchorPane.leftAnchor="10">
+        <center>
+            <TabPane styleClass="tab-pane" fx:id="tabPane">
+                <Tab styleClass="tab" fx:id="tab1" text="Received">
+                    <content>
+                        <AnchorPane fx:id="receivedAnchorPane" minHeight="0.0" minWidth="0.0" prefHeight="300.0" prefWidth="200.0">
+                            <BorderPane>
+                                <right>
+                                    <VBox spacing="20">
+                                        <Button styleClass="buttonUserPage" onAction="#handleAcceptRequest" text="Accept"></Button>
+                                        <Button styleClass="buttonUserPage" onAction="#handleRejectRequest" text="Reject"></Button>
+                                    </VBox>
+                                </right>
+
+                                <center>
+                                    <VBox spacing="10">
+                                        <TableView prefHeight="300" styleClass="tableView" fx:id="tableViewRequestsReceived" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                                            <columns>
+                                                <TableColumn styleClass="column" fx:id="tableColumnUserReceived" prefWidth="280.0" text="Sender" />
+                                                <TableColumn styleClass="column" fx:id="tableColumnStatusReceived" prefWidth="105.0" text="Status" />
+                                                <TableColumn styleClass="column" fx:id="tableColumnDateReceived" prefWidth="154.0" text="Date" />
+                                            </columns>
+                                        </TableView>
+                                        <Pagination fx:id="paginationTableViewReceived"/>
+                                    </VBox>
+                                </center>
+                            </BorderPane>
+                        </AnchorPane>
+                    </content>
+                </Tab>
+                <Tab styleClass="tab" fx:id="tab2" text="Sent">
+                    <content>
+                        <BorderPane>
+                            <right>
+                                    <Button styleClass="buttonUserPage" onAction="#handleDeleteRequest" text="Delete"></Button>
+                            </right>
+
+                            <center>
+                                <VBox spacing="10">
+                                    <TableView prefHeight="300" fx:id="tableViewRequestsSent" >
+                                        <columns>
+                                            <TableColumn styleClass="column" fx:id="tableColumnReceiverSent" prefWidth="280.0" text="Receiver" />
+                                            <TableColumn styleClass="column" fx:id="tableColumnStatusSent" prefWidth="105.0" text="Status" />
+                                            <TableColumn styleClass="column" fx:id="tableColumnDateSent" prefWidth="154.0" text="Date" />
+                                        </columns>
+                                    </TableView>
+                                    <Pagination fx:id="paginationTableViewSent"/>
+                                </VBox>
+                            </center>
+                        </BorderPane>
+                    </content>
+                </Tab>
+            </TabPane>
+        </center>
+
+        <top>
+            <HBox alignment="BASELINE_RIGHT">
+                <Button styleClass="buttonUserPage" text="Back" onAction="#handleBack"></Button>
+            </HBox>
+        </top>
+    </BorderPane>
+</AnchorPane>

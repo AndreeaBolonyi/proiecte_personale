@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.chart.BarChart?>
+<AnchorPane stylesheets="/css/activityPage.css" fx:id="rootAnchorPane" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="socialnetwork.controller.activityController">
+    <BorderPane AnchorPane.leftAnchor="50" AnchorPane.topAnchor="10" AnchorPane.bottomAnchor="50" AnchorPane.rightAnchor="50">
+        <center>
+            <TabPane styleClass="tab-pane" fx:id="tabPane">
+                <Tab styleClass="tab" fx:id="tab1" text="New friends and received messages">
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="380.0" prefWidth="400.0">
+                                <VBox spacing="20" alignment="CENTER">
+                                    <HBox>
+                                        <Label text="Select start date for the report."></Label>
+                                        <DatePicker fx:id="datePickerStart1"> </DatePicker>
+                                    </HBox>
+                                    <HBox>
+                                        <Label text="Select end date for the report"></Label>
+                                        <DatePicker fx:id="datePickerEnd1"></DatePicker>
+                                    </HBox>
+                                    <AnchorPane prefWidth="300" prefHeight="300" fx:id="miniAnchorPane"/>
+                                </VBox>
+                        </AnchorPane>
+                    </content>
+                </Tab>
+                <Tab styleClass="tab" fx:id="tab2" text="Received messages from a certain friend">
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="300.0" prefWidth="200.0">
+                            <VBox spacing="20" alignment="CENTER">
+                                <HBox>
+                                    <Label text="Select start date for the report."></Label>
+                                    <DatePicker fx:id="datePickerStart2"> </DatePicker>
+                                </HBox>
+                                <HBox>
+                                    <Label text="Select end date for the report"></Label>
+                                    <DatePicker fx:id="datePickerEnd2"></DatePicker>
+                                </HBox>
+                                <TableView styleClass="tableView" fx:id="tableViewUsers" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
+                                               AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                                        <columns>
+                                            <TableColumn styleClass="column" fx:id="tableColumnFirstName" prefWidth="138.0" text="First name"/>
+                                            <TableColumn styleClass="column" fx:id="tableColumnLastName" prefWidth="105.0" text="Last name"/>
+                                            <TableColumn styleClass="column" fx:id="tableColumnEmail" prefWidth="200.0" text="Email"/>
+                                        </columns>
+                                </TableView>
+                                </VBox>
+                        </AnchorPane>
+                    </content>
+                </Tab>
+            </TabPane>
+        </center>
+
+        <top>
+            <HBox alignment="BASELINE_RIGHT">
+                <Button styleClass="buttonUserPage" text="Back" onAction="#handleBack"></Button>
+            </HBox>
+        </top>
+
+        <bottom>
+            <HBox alignment="TOP_RIGHT">
+                <Button styleClass="buttonUserPage" text="PDF" onAction="#handleGeneratePDF"></Button>
+            </HBox>
+        </bottom>
+    </BorderPane>
+</AnchorPane>

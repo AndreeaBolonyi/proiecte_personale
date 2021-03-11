@@ -1,0 +1,49 @@
+.root{
+    -fx-font-size: 14px;
+    -fx-text-fill: #BF3A3A;
+    -fx-font-family: "Times New Roman";
+    -fx-alignment: center;
+    -fx-background-color: #ffd9b3;
+}
+
+.buttonLogIn{
+    -fx-font-size: 18px;
+    -fx-text-alignment: center;
+    -fx-background-color: #EEB892;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+    -fx-pref-height: 25px;
+    -fx-pref-width: 150px;
+}
+
+.buttonLogIn:hover{
+    -fx-background-color: transparent;
+}
+
+.buttonSignIn{
+    -fx-background-color: #EEB892;
+    -fx-font-size: 14px;
+    -fx-text-alignment: center;
+    -fx-text-fill: #686868;
+    -fx-cursor: hand;
+    -fx-pref-height: 25px;
+    -fx-pref-width: 150px;
+}
+
+.labelWelcome{
+    -fx-font-weight: bold;
+    -fx-font-size: 30px;
+}
+
+.split-pane{
+    -fx-font-size: 14px;
+    -fx-text-fill: #BF3A3A;
+    -fx-font-family: "Times New Roman";
+    -fx-alignment: center;
+    -fx-background-color: #ffd9b3;
+}
+
+.split-pane *.split-pane-divider {
+    -fx-padding: 0 1 0 1;
+    -fx-background-color: transparent;
+}

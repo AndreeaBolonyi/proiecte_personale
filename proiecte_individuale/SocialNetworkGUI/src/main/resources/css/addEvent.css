@@ -1,0 +1,21 @@
+.buttonAddEvent{
+    -fx-background-color: linear-gradient(#C70039, #FE5384);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+}
+
+.root {
+    -fx-font-size: 14px;
+    -fx-text-fill: #BF3A3A;
+    -fx-font-family: "Times New Roman";
+    -fx-alignment: center;
+    -fx-background-color: #ffd9b3;
+}
+
+.label{
+    -fx-font-size: 14px;
+    -fx-text-fill: #BF3A3A;
+    -fx-font-family: "Times New Roman";
+    -fx-font-weight: bold;
+}
