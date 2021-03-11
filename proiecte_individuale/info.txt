@@ -1,0 +1,4 @@
+->realizate la facultate
+->arhitectura stratificata
+->programare orientata obiect
+->baze de date relationale
