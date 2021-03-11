@@ -1,0 +1,3 @@
+->proiecte realizate in cadrul voluntariatului la Pentalog,Brasov
+->proiecte realizate in echipa, focusandu-ne pe Model-View-Controller
+->implementate in c#, design folosing Bootstrap (in principal)
