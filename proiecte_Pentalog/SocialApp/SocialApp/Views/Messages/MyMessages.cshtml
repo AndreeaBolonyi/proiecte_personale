@@ -1,0 +1,33 @@
+﻿@model IEnumerable<SocialApp.Models.Message>
+
+@{
+    ViewBag.Title = "My messages";
+}
+<br />
+
+<div class="messages">
+    @foreach (var item in Model)
+    {
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title">@Html.DisplayFor(modelItem => item.Title)</h3>
+        </div>
+        <div class="panel-body">
+            <p>
+                @Html.DisplayFor(modelItem => item.Content)
+            </p>
+            <p>
+                @Html.DisplayFor(modelItem => item.CreationDate)
+            </p>
+        </div>
+        @if (item.IsEditableByUser)
+    {
+        <div class="panel-footer">
+            @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+        </div>
+}
+    </div>
+    }
+</div>
+

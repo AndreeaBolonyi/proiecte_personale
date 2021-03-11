@@ -1,0 +1,85 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+.panel-create {
+    position: fixed;
+    bottom: 15px;
+    width: 75.1%;
+    margin: 0 auto;
+    left: 12.5%;
+}
+
+.message {
+    opacity: 0.85;
+}
+
+.messages {
+    opacity: 0.85;
+    padding-bottom: 180px;
+}
+
+#myNewsFeedBtn {
+    float: left;
+    font-size: 50px;
+    padding-left: 110px;
+    padding-top: 23px;
+}
+
+.friendsPopUp {
+    height: 700px;
+    margin-right: 26%;
+    margin-top: 20%;
+    margin-left: -75%;
+}
+
+.myBtn {
+    border-radius: 8px;
+    height: 100px;
+    width: 300px;
+    margin: 15px 0;
+}
+
+    .myBtn:hover {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+
+.friendsOrFollowersBtn {
+    color: rosybrown;
+}
+
+.myDelete {
+    color: #7a5353;
+    font-size: 27px;
+    border: none;
+    background: none;
+    font-weight: bold;
+    height: 40px;
+}
+
+.maidilit {
+    color: #9A666C;
+    font-size: 27px;
+    font-weight: bold;
+    height: 40px;
+}
+
+.validation-summary-errors > ul > li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+

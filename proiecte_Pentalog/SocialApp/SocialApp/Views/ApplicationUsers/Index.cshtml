@@ -1,0 +1,86 @@
+﻿@model SocialApp.Models.AllUsersViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<p></p>
+<center>
+    <div align="center" style="vertical-align:bottom">
+
+        <div id="align_left">
+            <button type="button" class="myBtn friendsOrFollowersBtn" data-toggle="modal" data-target="#myFollowedFriendsModal">
+                <p align="center"> <div1><h1>  My Friends </h1> </div1></p>
+            </button>
+        </div>
+
+        <div class="modal fade myFriendsModal" id="myFollowedFriendsModal" tabindex="-1" role="dialog" aria-labelledby="myFollowedFriendsModalTitle" aria-hidden="true">
+            <div class="modal-dialog friendsPopUp" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="myFollowedFriendsModalTitle">Your friends</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <p>
+                            @foreach (var item in Model.Followed)
+                            {
+                            <p> @item.Name </p>
+                            <p> @item.Email </p>
+                            <p>
+                                <input type="button" class="btnUnfollow maidilit" value="Unfollow" id="@item.Name" data-url="@Url.Action("FollowOrUnfollowUser", "ApplicationUsers")" />
+                            </p>
+                        } </p>
+                        </div>
+                    <div class="modal-footer">
+                        <input type='button' class="btn maidilit" onclick='location.reload();' value='Refresh Page' />
+                        <button type="button" class="btn maidilit" data-dismiss="modal">Close</button>
+
+                    </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div id="align_right">
+                <button type="button" class="myBtn friendsOrFollowersBtn" data-toggle="modal" data-target="#myRecomandationModal">
+                    <p align="center"> <div1><h1>  Recommendations </h1> </div1></p>
+                </button>
+            </div>
+
+            <div class="modal fade myFriendsModal" id="myRecomandationModal" tabindex="-1" role="dialog" aria-labelledby="myRecomandationModalTitle" aria-hidden="true">
+                <div class="modal-dialog friendsPopUp" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="myRecomandationModalTitle">Recommendations</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+
+                            <p>
+                                @foreach (var item in Model.Recommendations)
+                                {
+                                <p> @item.Name </p>
+                                <p> @item.Email </p>
+                                <p>
+                                    <input type="button" class="btnFollow maidilit" value="Follow" id="@item.Name" data-url="@Url.Action("FollowOrUnfollowUser", "ApplicationUsers")" />
+                                </p>
+                            } </p>
+                            </div>
+                        <div class="modal-footer">
+                            <input type='button'  class="btn maidilit" onclick='location.reload();' value='Refresh Page' />
+                            <button type="button" class="btn maidilit" data-dismiss="modal">Close</button>
+
+                        </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+
+        </center>

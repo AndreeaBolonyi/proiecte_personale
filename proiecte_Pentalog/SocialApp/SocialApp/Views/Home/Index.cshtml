@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<br />
+
+Please log in
+
+<div class="panel panel-default panel-create">
+    <div class="panel-body">
+        @Html.Partial("_CreateMessage", new SocialApp.Models.Message())
+    </div>
+</div>
+
