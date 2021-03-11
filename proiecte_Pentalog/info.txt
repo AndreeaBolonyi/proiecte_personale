@@ -1,5 +1,0 @@
-->cele doua proiecte au fost realizate in cadrul voluntariatului la Pentalog,Brasov
-->ambele proiecte au fost realizate in echipa
-->s-a folosit Model-View-Controller
-->implementate in principal in c#
-->stilizate folosing Bootstrap
