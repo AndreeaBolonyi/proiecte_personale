@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "StartTest";
+}
+<font size="5" color="white">
+    <h2><b>Test Instructions</b></h2>
+</font>
+<p>
+            <font color="white" size="5">
+            <div align="left">
+
+                This is a Personality Temperament Test. It helps assess your Temperament Profile of potential strengths & weaknesses. It's very simple and takes a couple of minutes to complete it. Your job is to read each word and put a number next to it according to how well it describes the REAL you.
+                SCORING CRITERIA: Score How Each Word Best Describes You:<br />
+                <br />
+                <b>
+                    1 =	"That is definitely NOT me!"<br />
+                    2 =	"That is usually NOT me."<br />
+                    3 =	"That is usually me."<br />
+                    4 =	"That is mostly me."<br />
+                    5 =	"That is definitely me!" <br />
+                </b>
+            </div>
+        </font>
+   </p>
+<div align="center">
+            <font size="30">
+            <button type="button" class="btn btn-info btn-lg">
+                <li>@Html.ActionLink("START", "StartTest", "Questions")</li>
+            </button>
+        </font>
+    </div>

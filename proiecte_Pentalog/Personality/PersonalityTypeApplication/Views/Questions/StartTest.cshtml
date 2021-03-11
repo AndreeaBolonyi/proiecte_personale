@@ -1,0 +1,69 @@
+﻿@model IEnumerable<PersonalityTypeApplication.Models.Question>
+
+@{
+    ViewBag.Title = "StartTest";
+}
+<div class="row, hideVerticalScrollbar">
+    <div class="progress">
+        <div class="progress-bar progress-bar-striped active" role="progressbar"
+             aria-valuenow="50" aria-valuemin="0" aria-valuemax="40" style="width:0%">
+            Your Progress...
+        </div>
+    </div>
+
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="false">
+        <div class="carousel-inner" role="listbox">
+            <div class="item active" align="center">
+
+                <div>
+                    <bg color="gray">
+                        <font size="40">
+                            <h7>
+                                <b>
+                                    Lots of luck!
+                                </b>
+                            </h7>
+                        </font>
+
+                    </bg>
+                </div>
+            </div>
+            @{ int i = 1;}
+            @foreach (var item in Model)
+            {
+                <div class="item" align="center">
+                    <font size="35">
+                        @Html.DisplayFor(modelItem => item.Text)
+                    </font>
+                    
+                    <form action="" id="checked_radio_form_@i">
+                        <font size="5" color="#660033">
+                            <input type="radio" name="number" value="1">  1
+                            <input type="radio" name="number" value="2">  2
+                            <input type="radio" name="number" value="3">  3
+                            <input type="radio" name="number" value="4">  4
+                            <input type="radio" name="number" value="5">  5
+                        </font>
+                    </form>
+                </div>
+                i++;            }
+        </div>
+
+        <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+    <div align="right">
+        <font size="30">
+            <button type="button" title="VIEW RESULTS" class="btn btn-danger btn-lg GoToRecomandations">
+                <div> VIEW RESULTS</div>
+                @*<li>@Html.ActionLink("VIEW RESULTS", "Index", "Recomandations")</li>*@
+            </button>
+        </font>
+    </div>
+    </div>

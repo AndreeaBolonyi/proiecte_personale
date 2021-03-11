@@ -1,0 +1,76 @@
+﻿@model IEnumerable<PersonalityTypeApplication.Models.Recomandation>
+
+@{
+    ViewBag.Title = "RecomandationsBasedOnPersonalityType";
+}
+<font size="5" style="font-family:Harlow Solid Italic;">
+    <b>
+        <h2>
+            <i>
+                Your personality type is: <br/>
+                <font size="7" style="font-family:Harlow Solid Italic;" color="#c299ff">
+                    @ViewBag.PredominantPersonalityType
+                </font>
+            </i>
+        </h2>
+    </b>
+
+    <h2><i>Your recomandations based on your answers:</i></h2>
+
+</font>
+
+<table class="table">
+    <tr>
+        <th>
+            <font size="4">
+                <div> Type </div>
+                @if (User.Identity.Name.Equals("admin@yahoo.com"))
+                {@Html.DisplayNameFor(model => model.RecomandationType)}
+            </font>
+        </th>
+        <th>
+            <font size="4">
+                @Html.DisplayNameFor(model => model.Name)
+            </font>
+        </th>
+        <th>
+            <font size="4">
+                @Html.DisplayNameFor(model => model.Description)
+            </font>
+        </th>
+
+        <th>
+            <font size="4">
+                @Html.DisplayNameFor(model => model.Link)
+            </font>
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <font size="4">
+                    @Html.DisplayFor(modelItem => item.RecomandationType)
+                </font>
+            </td>
+            <td>
+                <font size="4">
+                    @Html.DisplayFor(modelItem => item.Name)
+                </font>
+            </td>
+            <td>
+                <font size="3">
+                    @Html.DisplayFor(modelItem => item.Description)
+                </font>
+            </td>
+
+            <td>
+                <font size="4">
+                    <a target="_blank" href="@Html.DisplayFor(modelItem => item.Link)">Visit!</a>
+                </font>
+            </td>
+        </tr>
+    }
+</table>

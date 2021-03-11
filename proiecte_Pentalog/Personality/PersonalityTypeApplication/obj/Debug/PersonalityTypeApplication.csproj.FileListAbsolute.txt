@@ -1,0 +1,527 @@
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\ApplicationInsights.config
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\csc.exe
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\vbc.exe
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\PersonalityTypeApplication.dll.config
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\PersonalityTypeApplication.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\PersonalityTypeApplication.pdb
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Antlr3.Runtime.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\EntityFramework.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.Web.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Newtonsoft.Json.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Owin.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.Helpers.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.Mvc.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.Optimization.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.Razor.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.WebPages.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\WebGrease.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.Web.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.Helpers.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.Mvc.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.Optimization.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.Razor.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.WebPages.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Antlr3.Runtime.pdb
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Newtonsoft.Json.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\EntityFramework.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.csprojResolveAssemblyReference.cache
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.dll
+C:\Users\agiurescu\Documents\Visual Studio 2015\Projects\PersonalityTypeApplication\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.pdb
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\ApplicationInsights.config
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\csc.exe
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\vbc.exe
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\PersonalityTypeApplication.dll.config
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\PersonalityTypeApplication.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\PersonalityTypeApplication.pdb
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Antlr3.Runtime.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\EntityFramework.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.Web.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Newtonsoft.Json.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Owin.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.Helpers.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.Mvc.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.Optimization.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.Razor.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.WebPages.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\WebGrease.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.Web.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.Helpers.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.Mvc.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.Optimization.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.Razor.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.WebPages.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Newtonsoft.Json.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\EntityFramework.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.dll
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.pdb
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.csprojResolveAssemblyReference.cache
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.InitialCreate.resources
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.csproj.GenerateResource.Cache
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.testmigration.resources
+C:\Users\Miruna\Desktop\Pentalog\PersonalityTypeApplication\PersonalityTypeApplication\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.Addedvalidation.resources
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.csprojResolveAssemblyReference.cache
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.InitialCreate.resources
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.testmigration.resources
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.Addedvalidation.resources
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.csproj.GenerateResource.Cache
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.pdb
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\ApplicationInsights.config
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\roslyn\csc.exe
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\roslyn\vbc.exe
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\PersonalityTypeApplication.dll.config
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\PersonalityTypeApplication.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\PersonalityTypeApplication.pdb
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Antlr3.Runtime.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\EntityFramework.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.AI.Web.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Newtonsoft.Json.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Owin.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\System.Web.Helpers.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\System.Web.Mvc.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\System.Web.Optimization.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\System.Web.Razor.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\WebGrease.dll
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\EntityFramework.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.AI.Web.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\System.Web.Helpers.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\System.Web.Mvc.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\System.Web.Optimization.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\System.Web.Razor.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Newtonsoft.Json.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.RecomandationMigration.resources
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.recomandationtype.resources
+C:\Users\Miruna\Desktop\Pentalog\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.Recomandationerror.resources
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\ApplicationInsights.config
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\roslyn\csc.exe
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\roslyn\vbc.exe
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\PersonalityTypeApplication.dll.config
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\PersonalityTypeApplication.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\PersonalityTypeApplication.pdb
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Antlr3.Runtime.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\EntityFramework.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.Web.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Newtonsoft.Json.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Owin.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\System.Web.Helpers.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\System.Web.Mvc.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\System.Web.Optimization.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\System.Web.Razor.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\WebGrease.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\EntityFramework.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.Web.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\System.Web.Helpers.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\System.Web.Mvc.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\System.Web.Optimization.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\System.Web.Razor.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Newtonsoft.Json.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.csprojResolveAssemblyReference.cache
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.InitialCreate.resources
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.testmigration.resources
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.Addedvalidation.resources
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.RecomandationMigration.resources
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.recomandationtype.resources
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.Recomandationerror.resources
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.csproj.GenerateResource.Cache
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.csproj.CoreCompileInputs.cache
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.dll
+C:\Users\Miruna\Desktop\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.pdb
+D:\My files\Personality\PersonalityTypeApplication\bin\ApplicationInsights.config
+D:\My files\Personality\PersonalityTypeApplication\bin\roslyn\csc.exe
+D:\My files\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\My files\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\My files\Personality\PersonalityTypeApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\roslyn\vbc.exe
+D:\My files\Personality\PersonalityTypeApplication\bin\roslyn\VBCSCompiler.exe
+D:\My files\Personality\PersonalityTypeApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\My files\Personality\PersonalityTypeApplication\bin\PersonalityTypeApplication.dll.config
+D:\My files\Personality\PersonalityTypeApplication\bin\PersonalityTypeApplication.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\PersonalityTypeApplication.pdb
+D:\My files\Personality\PersonalityTypeApplication\bin\Antlr3.Runtime.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\EntityFramework.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\EntityFramework.SqlServer.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.Web.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.ApplicationInsights.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Cookies.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Facebook.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Google.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Twitter.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Newtonsoft.Json.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\Owin.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\System.Web.Helpers.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\System.Web.Mvc.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\System.Web.Optimization.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\System.Web.Razor.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.Deployment.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.Razor.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\WebGrease.dll
+D:\My files\Personality\PersonalityTypeApplication\bin\EntityFramework.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\EntityFramework.SqlServer.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.Web.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.ApplicationInsights.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\System.Web.Helpers.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\System.Web.Mvc.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\System.Web.Optimization.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\System.Web.Razor.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.Deployment.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.Razor.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\Antlr3.Runtime.pdb
+D:\My files\Personality\PersonalityTypeApplication\bin\Newtonsoft.Json.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Facebook.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Cookies.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Google.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Twitter.xml
+D:\My files\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.csprojResolveAssemblyReference.cache
+D:\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.InitialCreate.resources
+D:\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.testmigration.resources
+D:\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.Addedvalidation.resources
+D:\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.RecomandationMigration.resources
+D:\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.recomandationtype.resources
+D:\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.Recomandationerror.resources
+D:\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.csproj.GenerateResource.Cache
+D:\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.csproj.CoreCompileInputs.cache
+D:\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.dll
+D:\My files\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.pdb
+D:\My files\School\Personality\PersonalityTypeApplication\bin\ApplicationInsights.config
+D:\My files\School\Personality\PersonalityTypeApplication\bin\roslyn\csc.exe
+D:\My files\School\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\My files\School\Personality\PersonalityTypeApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\My files\School\Personality\PersonalityTypeApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\roslyn\vbc.exe
+D:\My files\School\Personality\PersonalityTypeApplication\bin\roslyn\VBCSCompiler.exe
+D:\My files\School\Personality\PersonalityTypeApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\My files\School\Personality\PersonalityTypeApplication\bin\PersonalityTypeApplication.dll.config
+D:\My files\School\Personality\PersonalityTypeApplication\bin\PersonalityTypeApplication.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\PersonalityTypeApplication.pdb
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Antlr3.Runtime.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\EntityFramework.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\EntityFramework.SqlServer.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.AI.Web.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.ApplicationInsights.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Cookies.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Facebook.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Google.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Twitter.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Newtonsoft.Json.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Owin.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\System.Web.Helpers.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\System.Web.Mvc.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\System.Web.Optimization.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\System.Web.Razor.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.Deployment.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.Razor.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\WebGrease.dll
+D:\My files\School\Personality\PersonalityTypeApplication\bin\EntityFramework.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\EntityFramework.SqlServer.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.AI.Web.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.ApplicationInsights.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\System.Web.Helpers.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\System.Web.Mvc.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\System.Web.Optimization.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\System.Web.Razor.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.Deployment.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\System.Web.WebPages.Razor.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Antlr3.Runtime.pdb
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Newtonsoft.Json.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Facebook.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Cookies.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Google.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.Twitter.xml
+D:\My files\School\Personality\PersonalityTypeApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\My files\School\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.csprojResolveAssemblyReference.cache
+D:\My files\School\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.InitialCreate.resources
+D:\My files\School\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.testmigration.resources
+D:\My files\School\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.Addedvalidation.resources
+D:\My files\School\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.RecomandationMigration.resources
+D:\My files\School\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.recomandationtype.resources
+D:\My files\School\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.Migrations.Recomandationerror.resources
+D:\My files\School\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.csproj.GenerateResource.Cache
+D:\My files\School\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.csproj.CoreCompileInputs.cache
+D:\My files\School\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.dll
+D:\My files\School\Personality\PersonalityTypeApplication\obj\Debug\PersonalityTypeApplication.pdb

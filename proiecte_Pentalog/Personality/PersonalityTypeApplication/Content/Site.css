@@ -1,0 +1,75 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-image: url("img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+a:visited {
+    color: darkblue;
+}
+
+a:active {
+    color: blueviolet;
+}
+
+a {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+    a:hover {
+        color: white;
+        background-color: gray;
+        text-decoration: none;
+    }
+
+.personalityBtn {
+    height: 250px;
+    width: 100%;
+    margin: 15px 0;
+}
+
+h1 {
+    text-shadow: 5px 5px 8px rgb(238,130,238);
+}
+input[type='radio'] {
+    transform: scale(1.2);
+}
+
+.carousel {
+    width: 1140px;
+    height: 475px;
+    background: linear-gradient(to bottom, #99ccff 0%, #993399 100%);
+}
+
+.carousel{
+    padding-top: 190px;
+    padding-bottom: 50px;
+}
+
+.GoToRecomandations{
+    visibility:hidden;
+}
